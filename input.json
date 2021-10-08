@@ -1,0 +1,250 @@
+[
+  {
+    "Data": [
+      {
+        "VarCharValue": "sfportfolioid"
+      },
+      {
+        "VarCharValue": "tradingpartnerid"
+      },
+      {
+        "VarCharValue": "customername"
+      },
+      {
+        "VarCharValue": "customerid"
+      },
+      {
+        "VarCharValue": "insurancepolicyid"
+      },
+      {
+        "VarCharValue": "customeraddress"
+      },
+      {
+        "VarCharValue": "customeremail"
+      },
+      {
+        "VarCharValue": "customertele"
+      },
+      {
+        "VarCharValue": "policycountry"
+      },
+      {
+        "VarCharValue": "vehicletype"
+      },
+      {
+        "VarCharValue": "vehiclemake"
+      },
+      {
+        "VarCharValue": "vehicleregistrationnumber"
+      },
+      {
+        "VarCharValue": "vehicleidentificationnumber"
+      },
+      {
+        "VarCharValue": "vehiclechassinumber"
+      },
+      {
+        "VarCharValue": "manufactureyear"
+      },
+      {
+        "VarCharValue": "policytype"
+      },
+      {
+        "VarCharValue": "currency"
+      },
+      {
+        "VarCharValue": "insurer"
+      },
+      {
+        "VarCharValue": "insureremail"
+      },
+      {
+        "VarCharValue": "insurertele"
+      },
+      {
+        "VarCharValue": "startpolicydate"
+      },
+      {
+        "VarCharValue": "endpolicydate"
+      },
+      {
+        "VarCharValue": "accidentrepair"
+      },
+      {
+        "VarCharValue": "deductibleaccidentrepair"
+      },
+      {
+        "VarCharValue": "fire"
+      },
+      {
+        "VarCharValue": "deductiblefire"
+      },
+      {
+        "VarCharValue": "theft"
+      },
+      {
+        "VarCharValue": "deductibletheft"
+      },
+      {
+        "VarCharValue": "windscreen"
+      },
+      {
+        "VarCharValue": "deductiblewindscreen"
+      },
+      {
+        "VarCharValue": "towing"
+      },
+      {
+        "VarCharValue": "deductibletowing"
+      },
+      {
+        "VarCharValue": "maliciousdamage"
+      },
+      {
+        "VarCharValue": "deductiblemaliciousdamage"
+      },
+      {
+        "VarCharValue": "mtpl"
+      },
+      {
+        "VarCharValue": "deductiblemtpl"
+      },
+      {
+        "VarCharValue": "sfcompany"
+      },
+      {
+        "VarCharValue": "sfcontactemail"
+      },
+      {
+        "VarCharValue": "sfcontacttele"
+      },
+      {
+        "VarCharValue": "otherinformation"
+      }
+    ]
+  },
+  {
+    "Data": [
+      {
+        "VarCharValue": "SF_NO"
+      },
+      {
+        "VarCharValue": "800000001"
+      },
+      {
+        "VarCharValue": "CustomerNO 2"
+      },
+      {
+        "VarCharValue": "800000001"
+      },
+      {
+        "VarCharValue": "600002"
+      },
+      {
+        "VarCharValue": "St\ufffdlfj\ufffdra 2"
+      },
+      {
+        "VarCharValue": "Test124@test.sfa"
+      },
+      {
+        "VarCharValue": "4711111112"
+      },
+      {
+        "VarCharValue": "Norway"
+      },
+      {
+        "VarCharValue": "Lorry"
+      },
+      {
+        "VarCharValue": "MERCEDES-BENZ"
+      },
+      {
+        "VarCharValue": "XX1235"
+      },
+      {
+        "VarCharValue": "WDB96300330074909"
+      },
+      {
+        "VarCharValue": "74909"
+      },
+      {
+        "VarCharValue": "2016"
+      },
+      {
+        "VarCharValue": "CASCO/MTPL"
+      },
+      {
+        "VarCharValue": "NOK"
+      },
+      {
+        "VarCharValue": "Codan"
+      },
+      {
+        "VarCharValue": "skade1@forsikring.no"
+      },
+      {
+        "VarCharValue": "40800000"
+      },
+      {
+        "VarCharValue": "2020-08-01"
+      },
+      {
+        "VarCharValue": "2021-07-31"
+      },
+      {
+        "VarCharValue": "YES"
+      },
+      {
+        "VarCharValue": "50000"
+      },
+      {
+        "VarCharValue": "YES"
+      },
+      {
+        "VarCharValue": "50000"
+      },
+      {
+        "VarCharValue": "YES"
+      },
+      {
+        "VarCharValue": "50000"
+      },
+      {
+        "VarCharValue": "YES"
+      },
+      {
+        "VarCharValue": "5000"
+      },
+      {
+        "VarCharValue": "YES"
+      },
+      {
+        "VarCharValue": "3000"
+      },
+      {
+        "VarCharValue": "YES"
+      },
+      {
+        "VarCharValue": "50000"
+      },
+      {
+        "VarCharValue": "YES"
+      },
+      {
+        "VarCharValue": "40000"
+      },
+      {
+        "VarCharValue": "SFA"
+      },
+      {
+        "VarCharValue": "forsikring@scania.no"
+      },
+      {
+        "VarCharValue": ""
+      },
+      {
+        "VarCharValue": ""
+      }
+    ]
+  }
+]

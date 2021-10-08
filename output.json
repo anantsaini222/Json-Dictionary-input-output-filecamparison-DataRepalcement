@@ -1,0 +1,54 @@
+{
+	"VehicleInsurance":  {
+        "VehicleIdentifier": {
+            "VehichleIdentificationNumber" : "",
+            "RegistrationNumber": ""
+        },
+        "SFPortfolioIdentifier": "",
+        "TradingPartnerIdentifier": {
+            "IdentifierCode": "",
+            "EntityIdentifierScheme": "",
+            "IdentifierSchemeVersion": "",
+            "EntityIdentifierSchemeAgency": ""
+        },
+        "Customer": {
+            "Addressee": "",
+            "ElectronicMailAddress": "",
+            "PhysicalAddress": "",
+            "PhoneNumber": {
+                "CountryCallingCode": "",
+                "NationalDestinationCode": "",
+                "SubscriberNumber": "",
+                "Extension": ""
+            },
+            "InsurancePolicy":{
+                "InsurancePolicyIdentifier": "",
+                "InsurancePolicyCountry": {
+                    "CountryCode": "",
+                    "CountryName": ""
+                },
+                "InsuredVehicleValue": "",
+                "CurrencyCode":"",
+                "PolicyType":"",
+                "Insurer":"",
+                "PolicyStartDate":"",
+                "PolicyEndDate":"",
+                "Coverage": {
+                    "CoverageValueType": "",
+                    "CascoCoverage": "",
+                    "MTPLCoverage": "",
+                    "CascoCoverageDeductible": "",
+                    "MTPLCoverageDeductible": ""
+                }
+            },
+            "VATNumber": "",
+            "ObjectIdentifier": "",
+            "VehicleType": "",
+            "VehicleMake": "",
+            "YearOfManufacture": "",
+            "Status": "",
+            "ClaimHandler": "",
+            "OtherInformation": ""
+        }
+    }
+}
