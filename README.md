@@ -1,4 +1,6 @@
 # Json-Dictionary-input-output-filecamparison-DataRepalcement
+<h2>In this project we have two json file first one is input.json and other one is output.json. Our task is to first equate the dictoionary of two in a form of KEy and Value. Then we haveto read the data ffrom the output.json. Then we hae to itrate every element of the input file and print Element found there is there is no further division else print Element not found. After itrating every element we'll check for all the values of the output file who do not ave have their value and we will find their respective value in the input file, if there is. IF value is found then we will create a new file or overright the same output with all the updated values.</h2><br>
+
 <img width="40%" src="https://github.com/anantsaini222/Json-Dictionary-input-output-filecamparison-DataRepalcement/blob/d6ac8c838fc6c61add0e133dc9f383107d6cea28/Task-01-01.PNG"><br><br>
 <img width="40%" src="https://github.com/anantsaini222/Json-Dictionary-input-output-filecamparison-DataRepalcement/blob/d6ac8c838fc6c61add0e133dc9f383107d6cea28/Task-01-02.PNG"><br><br>
 <img width="40%" src="https://github.com/anantsaini222/Json-Dictionary-input-output-filecamparison-DataRepalcement/blob/d6ac8c838fc6c61add0e133dc9f383107d6cea28/Task-01-03.PNG"><br><br>
